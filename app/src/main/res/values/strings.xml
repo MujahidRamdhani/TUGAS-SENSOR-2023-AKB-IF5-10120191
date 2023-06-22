@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TugasSensor2023AKBIF510120191</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nama">Ahmad Mujahid Ramdhani</string>
+    <string name="email">mujahidramdhani@gmail.com</string>
+    <string name="kelas">IF-5</string>
+    <string name="nim">10120191</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
